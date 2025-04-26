@@ -1,0 +1,397 @@
+{
+  "main": {
+    "id": "240ba8dd6651f9e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "97c69bc49c75891e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efb0933e5f7d9a41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Termos Técnicos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Termos Técnicos"
+            }
+          },
+          {
+            "id": "662e48c7897dc193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nichar em Construtora.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nichar em Construtora"
+            }
+          },
+          {
+            "id": "39cb9506b5556aa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Automacao Anotacoes.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Automacao Anotacoes"
+            }
+          },
+          {
+            "id": "760b519a201def04",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
+            "id": "72bccd2d81d477a7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "ideia genial/1-Ideia fazer sites lovable + n8n de IDEIAS GENIAIS E REMUNERADAS.canvas",
+                "viewState": {
+                  "x": 127.5,
+                  "y": -225.5,
+                  "zoom": -1.0496118286294729
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "1-Ideia fazer sites lovable + n8n de IDEIAS GENIAIS E REMUNERADAS"
+            }
+          },
+          {
+            "id": "1c1e6dd4878132b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ideia genial/0-Prompt para Criar o CodeLingua SaaS no Lovable.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0-Prompt para Criar o CodeLingua SaaS no Lovable"
+            }
+          },
+          {
+            "id": "7bced392da2e7bbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ideia genial/3-Futuro da aplicação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3-Futuro da aplicação"
+            }
+          },
+          {
+            "id": "2ed9086b28bf5eda",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "ideia genial/1-Ideia fazer sites lovable + n8n de IDEIAS GENIAIS E REMUNERADAS.canvas",
+                "viewState": {
+                  "x": -132.7402181446049,
+                  "y": -29.569721086624376,
+                  "zoom": -0.7153415900377097
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "1-Ideia fazer sites lovable + n8n de IDEIAS GENIAIS E REMUNERADAS"
+            }
+          },
+          {
+            "id": "9882e13b969c33f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ideia genial/4-Próximos Passos com IA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4-Próximos Passos com IA"
+            }
+          },
+          {
+            "id": "d193497e2dda8a1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ideia genial/5-Lado institucional.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5-Lado institucional"
+            }
+          },
+          {
+            "id": "9aa73dc28b004ab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ideia genial/6-Cronograma Sugerido (6 Meses).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6-Cronograma Sugerido (6 Meses)"
+            }
+          },
+          {
+            "id": "547256966ee77c21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fazer agora  TCC!!!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fazer agora  TCC!!!"
+            }
+          },
+          {
+            "id": "5e0783b70a9f5a7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ideia genial/8-Como ter Progresso!!.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "8-Como ter Progresso!!"
+            }
+          },
+          {
+            "id": "879418ea6897575e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ideia genial/7-Estratégias de Rotina.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7-Estratégias de Rotina"
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5119fcdff9776ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffeccae3c01420e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8573a0acb8bcbffe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "76dea56012834c5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "7b118343626c881f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "right": {
+    "id": "d473a03f2b815136",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e3338e4bdc2dc55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b814f47d2e5aee4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ideia genial/7-Estratégias de Rotina.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 7-Estratégias de Rotina"
+            }
+          },
+          {
+            "id": "3f3b41605e3cb5e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ideia genial/7-Estratégias de Rotina.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 7-Estratégias de Rotina"
+            }
+          },
+          {
+            "id": "f3ab5151ede7f26e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "73c5c628c91c5f1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ideia genial/7-Estratégias de Rotina.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 7-Estratégias de Rotina"
+            }
+          },
+          {
+            "id": "6d6920953bc7119b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6d6920953bc7119b",
+  "lastOpenFiles": [
+    "obsidian-saas",
+    "ideia genial/8-Como ter Progresso!!.md",
+    "ideia genial/7-Estratégias de Rotina.md",
+    "Fazer agora  TCC!!!.md",
+    "ideia genial/6-Cronograma Sugerido (6 Meses).md",
+    "ideia genial/5-Lado institucional.md",
+    "ideia genial/4-Próximos Passos com IA.md",
+    "ideia genial/1-Ideia fazer sites lovable + n8n de IDEIAS GENIAIS E REMUNERADAS.canvas",
+    "ideia genial/0-Prompt para Criar o CodeLingua SaaS no Lovable.md",
+    "ideia genial/imagens/Pasted image 20250425234929.png",
+    "ideia genial/imagens/Pasted image 20250425235649.png",
+    "ideia genial/imagens",
+    "ideia genial/3-Futuro da aplicação.md",
+    "ideia genial/2-Gerenciamento Business.md",
+    "Nichar em Construtora.md",
+    "Bem-vindo.md",
+    "Automacao Anotacoes.md",
+    "ideia genial/imagens/Pasted image 20250426000230.png",
+    "Ideia fazer sites lovable + n8n de IDEIAS GENIAIS E REMUNERADAS.md",
+    "ideia genial",
+    "ideia genial/imagens/Pasted image 20250425235036.png",
+    "ideia genial/imagens/Pasted image 20250426000303.png",
+    "ideia genial/imagens/Pasted image 20250425235854.png",
+    "ideia genial/imagens/Pasted image 20250425235419.png",
+    "Termos Técnicos.md"
+  ]
+}

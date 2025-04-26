@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"bf315065877ef42f","type":"text","text":"lovable","x":-95,"y":-272,"width":250,"height":60,"color":"6"},
+		{"id":"6f01998de2b74473","type":"file","file":"ideia genial/imagens/Pasted image 20250426000303.png","x":359,"y":-365,"width":460,"height":246},
+		{"id":"121594addc0d3851","type":"text","text":"prompt de uma ideia de negócio genial e remunerado","x":448,"y":-739,"width":281,"height":59,"color":"4"},
+		{"id":"c6984509dee01d56","type":"file","file":"ideia genial/imagens/Pasted image 20250425235419.png","x":-594,"y":-600,"width":245,"height":100},
+		{"id":"5056e82657f92619","type":"text","text":"banco de dados supabase","x":-292,"y":-478,"width":250,"height":60},
+		{"id":"0ee15902932a4a1d","type":"text","text":"tirar confirmacao de email","x":-594,"y":-740,"width":250,"height":60},
+		{"id":"c9e6bfc4ba735d48","type":"text","text":"Exemplo: Site de IA Cook Master que você dá os ingredientes e ele sugere e cobra por uma assinatura ","x":85,"y":-590,"width":320,"height":112},
+		{"id":"3a511a578ce5dd06","type":"file","file":"ideia genial/imagens/Pasted image 20250425234929.png","x":-560,"y":-365,"width":177,"height":463},
+		{"id":"214f09a182397888","type":"file","file":"ideia genial/imagens/Pasted image 20250425235036.png","x":-816,"y":-365,"width":229,"height":463},
+		{"id":"c3e22f768a074a85","type":"text","text":"n8n","x":-42,"y":-119,"width":250,"height":60,"color":"1"},
+		{"id":"3d1fe3ddc4f22a22","type":"file","file":"ideia genial/imagens/Pasted image 20250425235649.png","x":-42,"y":24,"width":425,"height":129},
+		{"id":"e836d501205b3350","type":"file","file":"ideia genial/imagens/Pasted image 20250425235854.png","x":480,"y":-59,"width":460,"height":180}
+	],
+	"edges":[
+		{"id":"427adf5076fb73a4","fromNode":"bf315065877ef42f","fromSide":"bottom","toNode":"c3e22f768a074a85","toSide":"top"},
+		{"id":"11db679c4c65df90","fromNode":"bf315065877ef42f","fromSide":"left","toNode":"3a511a578ce5dd06","toSide":"right"},
+		{"id":"d965b0c9b0ed9f51","fromNode":"121594addc0d3851","fromSide":"left","toNode":"c9e6bfc4ba735d48","toSide":"right"},
+		{"id":"49f8aa9c1a963fb9","fromNode":"c9e6bfc4ba735d48","fromSide":"bottom","toNode":"bf315065877ef42f","toSide":"top"},
+		{"id":"fc3de49a789e1e59","fromNode":"bf315065877ef42f","fromSide":"top","toNode":"5056e82657f92619","toSide":"bottom"},
+		{"id":"5443813833b001b6","fromNode":"5056e82657f92619","fromSide":"left","toNode":"c6984509dee01d56","toSide":"bottom"},
+		{"id":"71efdd43de4b39b1","fromNode":"c6984509dee01d56","fromSide":"top","toNode":"0ee15902932a4a1d","toSide":"bottom"},
+		{"id":"2f5b036fc3eae404","fromNode":"c3e22f768a074a85","fromSide":"bottom","toNode":"3d1fe3ddc4f22a22","toSide":"top"},
+		{"id":"61178c2575a8e4ae","fromNode":"3d1fe3ddc4f22a22","fromSide":"right","toNode":"e836d501205b3350","toSide":"left"},
+		{"id":"0a70b33d60b3cba8","fromNode":"6f01998de2b74473","fromSide":"left","toNode":"bf315065877ef42f","toSide":"right"},
+		{"id":"e095c8371292fd8e","fromNode":"3a511a578ce5dd06","fromSide":"left","toNode":"214f09a182397888","toSide":"right"}
+	]
+}
